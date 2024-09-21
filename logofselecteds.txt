@@ -1,0 +1,307 @@
+0. Generation Model:/content/Drive/MyDrive/Codes/ScalingOptimization/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.29  -0.125  0.228 -0.245 -0.262  0.082  0.14  -0.263 -0.264  0.215 -0.167 -0.076  0.174 -0.174
+ -0.069  0.193 -0.039]
+1. Generation Model:/content/Drive/MyDrive/Codes/ScalingOptimization/policies/policy-Gen1
+1. Generation Scaling Variables: [ 0.312 -0.187  0.268 -0.205 -0.354  0.042  0.429 -0.023 -0.458  0.122 -0.016 -0.351  0.429 -0.204
+  0.099  0.276 -0.328]
+2. Generation Model:/content/Drive/MyDrive/Codes/ScalingOptimization/policies/policy-Gen2
+2. Generation Scaling Variables: [ 0.601 -0.486  0.296 -0.184 -0.563  0.171  0.269 -0.06  -0.279 -0.077  0.245 -0.384  0.418 -0.171
+ -0.067  0.18  -0.388]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.024 -0.087 -0.069 -0.052 -0.078 -0.05   0.079  0.05  -0.028  0.063  0.031  0.095 -0.033  0.036
+ -0.062 -0.034  0.016]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.048 -0.08  -0.127 -0.07  -0.074 -0.016  0.079  0.039 -0.031 -0.034  0.091  0.08  -0.115  0.013
+ -0.055  0.047 -0.065]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.048 -0.08  -0.127 -0.07  -0.074 -0.016  0.079  0.039 -0.031 -0.034  0.091  0.08  -0.115  0.013
+ -0.055  0.047 -0.065]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [ 0.026 -0.082 -0.035  0.026 -0.104 -0.109  0.025  0.128 -0.007 -0.049  0.102  0.093 -0.057 -0.069
+ -0.133  0.089 -0.1  ]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [-0.038 -0.017 -0.083  0.111 -0.045 -0.061 -0.042  0.069 -0.084 -0.043  0.178  0.168 -0.116 -0.05
+ -0.2    0.032 -0.094]
+ 
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2  0.  -0.2 -0.1  0.1  0.   0.1 -0.1 -0.2  0.  -0.1 -0.2  0.   0.  -0.1  0.1 -0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.231  0.075 -0.232 -0.084  0.079 -0.072  0.076 -0.027 -0.214 -0.065 -0.11  -0.163 -0.004  0.017
+ -0.138  0.175 -0.189]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.226  0.108 -0.203 -0.054 -0.015 -0.147  0.02  -0.042 -0.115  0.006 -0.112 -0.18  -0.002  0.051
+ -0.231  0.156 -0.158]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.1 -0.1 -0.1  0.   0.1  0.1  0.   0.   0.1 -0.1  0.   0.   0.1 -0.1  0.1 -0.1 -0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.1 -0.3 -0.3  0.  -0.1  0.1 -0.1  0.  -0.1 -0.2 -0.1  0.   0.1 -0.1 -0.1  0.  -0.3]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.2 -0.3 -0.3 -0.2 -0.2 -0.1 -0.3 -0.1 -0.1 -0.3  0.  -0.1  0.2 -0.1  0.  -0.1 -0.3]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [-0.4 -0.3 -0.5 -0.4 -0.1 -0.2 -0.4  0.  -0.1 -0.2  0.  -0.3  0.1  0.  -0.2 -0.3 -0.2]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [-0.3 -0.3 -0.7 -0.6 -0.1 -0.4 -0.4  0.  -0.3 -0.1  0.  -0.3  0.2 -0.1 -0.2 -0.5 -0.1]
+
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.  -0.2  0.1  0.  -0.1 -0.1  0.   0.1  0.   0.1 -0.2  0.1  0.1  0.1  0.   0.  -0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.2 -0.1  0.1  0.  -0.3 -0.3  0.1  0.2 -0.2  0.  -0.2  0.   0.2 -0.1  0.1  0.1 -0.3]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.2 -0.2 -0.1 -0.1 -0.2 -0.5 -0.1  0.3 -0.3 -0.1 -0.3  0.   0.1 -0.3  0.2 -0.1 -0.2]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [-0.3 -0.3  0.   0.  -0.2 -0.5 -0.3  0.2 -0.2 -0.3 -0.3  0.   0.2 -0.2  0.2 -0.1 -0.1]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [-0.3 -0.4 -0.1  0.  -0.3 -0.4 -0.2  0.  -0.2 -0.4 -0.2  0.1  0.  -0.2  0.2 -0.3 -0. ]
+5. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen5
+5. Generation Scaling Variables: [-0.5 -0.6 -0.2  0.1 -0.5 -0.4 -0.4  0.1 -0.4 -0.6 -0.4  0.1 -0.2 -0.2  0.2 -0.2 -0.1]
+
+
+NOHUP
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2  0.1  0.  -0.1  0.  -0.2 -0.1  0.1  0.   0.1 -0.1 -0.2  0.   0.1  0.1  0.1 -0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.1  0.2 -0.2 -0.3  0.  -0.3  0.  -0.1 -0.2  0.  -0.1 -0.3 -0.1 -0.1  0.2  0.2 -0.2]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.1  0.3 -0.3 -0.5  0.  -0.2 -0.2  0.  -0.1  0.1 -0.3 -0.2 -0.3  0.   0.1  0.1 -0.1]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [ 0.   0.2 -0.2 -0.6  0.1 -0.1 -0.3 -0.1 -0.2  0.1 -0.5 -0.4 -0.3 -0.2  0.2  0.   0. ]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [-0.2  0.2 -0.3 -0.8  0.2 -0.3 -0.4 -0.2 -0.1  0.1 -0.6 -0.4 -0.4 -0.2  0.2  0.1 -0.1]
+
+NOHUP2
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2  0.   0.  -0.2  0.1 -0.1  0.  -0.1  0.   0.1  0.   0.  -0.2  0.   0.1  0.  -0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.1 -0.2  0.  -0.1 -0.1 -0.2 -0.1 -0.1  0.1 -0.1 -0.2 -0.2 -0.2 -0.1 -0.1  0.  -0.3]
+
+NOHUP3
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2  0.  -0.1  0.1 -0.1 -0.1  0.   0.1 -0.1  0.  -0.2 -0.2 -0.2  0.1 -0.2 -0.2  0. ]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.4 -0.1  0.   0.2 -0.1 -0.3 -0.1 -0.1 -0.3  0.  -0.3 -0.4 -0.1 -0.1 -0.4 -0.4  0. ]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.5  0.  -0.2  0.  -0.2 -0.4  0.  -0.3 -0.4 -0.2 -0.3 -0.3 -0.2 -0.2 -0.4 -0.4  0. ]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [-0.5  0.1 -0.3  0.1 -0.2 -0.5 -0.1 -0.5 -0.6 -0.3 -0.3 -0.2 -0.1 -0.4 -0.3 -0.4  0.1]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [-0.7  0.2 -0.4  0.2 -0.4 -0.6 -0.3 -0.6 -0.6 -0.5 -0.2 -0.4 -0.2 -0.3 -0.3 -0.3  0.1]
+5. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen5
+5. Generation Scaling Variables: [-0.6  0.  -0.5  0.  -0.3 -0.5 -0.2 -0.5 -0.6 -0.6 -0.3 -0.6 -0.3 -0.3 -0.3 -0.5  0.2]
+6. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen6
+6. Generation Scaling Variables: [-0.6  0.  -0.5  0.  -0.3 -0.5 -0.2 -0.5 -0.6 -0.6 -0.3 -0.6 -0.3 -0.3 -0.3 -0.5  0.2]
+7. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen7
+7. Generation Scaling Variables: [-0.8 -0.1 -0.7 -0.1 -0.2 -0.7 -0.2 -0.5 -0.7 -0.5 -0.4 -0.6 -0.3 -0.2 -0.4 -0.5  0. ]
+7. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen7
+7. Generation Scaling Variables: [-0.8 -0.3 -0.6  0.  -0.3 -0.8 -0.2 -0.5 -0.6 -0.4 -0.6 -0.6 -0.3 -0.1 -0.3 -0.7 -0.2]
+7. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen7
+7. Generation Scaling Variables: [-0.9 -0.1 -0.9 -0.2 -0.2 -0.8 -0.3 -0.6 -0.8 -0.4 -0.5 -0.5 -0.4 -0.3 -0.6 -0.7  0.1]
+8. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen8
+8. Generation Scaling Variables: [-1.1 -0.3 -1.  -0.4 -0.2 -0.8 -0.4 -0.5 -0.8 -0.3 -0.7 -0.6 -0.3 -0.5 -0.6 -0.6  0. ]
+9. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen9
+9. Generation Scaling Variables: [-1.3 -0.4 -1.1 -0.3 -0.4 -1.  -0.6 -0.5 -0.8 -0.2 -0.6 -0.8 -0.4 -0.7 -0.8 -0.7  0. ]
+10. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen10
+10. Generation Scaling Variables: [-1.4 -0.4 -1.1 -0.5 -0.3 -1.1 -0.5 -0.7 -0.9 -0.3 -0.8 -0.7 -0.6 -0.7 -0.8 -0.8  0.1]
+11. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen11
+11. Generation Scaling Variables: [-1.5 -0.4 -1.  -0.6 -0.5 -1.3 -0.5 -0.6 -1.1 -0.3 -0.7 -0.9 -0.5 -0.8 -0.7 -0.8  0.1]
+12. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen12
+12. Generation Scaling Variables: [-1.5 -0.6 -1.2 -0.6 -0.7 -1.2 -0.6 -0.8 -1.2 -0.3 -0.9 -0.9 -0.5 -0.8 -0.8 -1.   0.2]
+
+
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.1 -0.2 -0.1 -0.2 -0.1  0.   0.   0.2 -0.2  0.   0.2 -0.2  0.  -0.2 -0.1 -0.2  0. ]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.2  0.   0.  -0.1  0.1 -0.2  0.2  0.2 -0.1  0.1  0.   0.   0.  -0.3 -0.2 -0.4 -0.2]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [ 0.  -0.2  0.   0.   0.2 -0.1  0.1  0.4 -0.1  0.2  0.1  0.2  0.2 -0.1 -0.3 -0.6 -0.1]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [ 0.1 -0.4 -0.1  0.2  0.2 -0.2  0.2  0.3  0.1  0.2  0.   0.   0.2 -0.  -0.1 -0.7 -0.1]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [ 0.1 -0.4 -0.1  0.2  0.2 -0.2  0.2  0.3  0.1  0.2  0.   0.   0.2 -0.  -0.1 -0.7 -0.1]
+5. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen5
+5. Generation Scaling Variables: [ 0.1 -0.4 -0.3  0.   0.3 -0.4  0.   0.3  0.1  0.3 -0.1 -0.2  0.3 -0.2 -0.2 -0.8 -0.3]
+6. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen6
+6. Generation Scaling Variables: [ 0.1 -0.4 -0.3  0.   0.3 -0.4  0.   0.3  0.1  0.3 -0.1 -0.2  0.3 -0.2 -0.2 -0.8 -0.3]
+7. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen7
+7. Generation Scaling Variables: [ 0.1 -0.4 -0.3  0.   0.3 -0.4  0.   0.3  0.1  0.3 -0.1 -0.2  0.3 -0.2 -0.2 -0.8 -0.3]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.1 -0.1  0.   0.2  0.   0.  -0.2  0.1 -0.2  0.2 -0.2  0.1  0.   0.1  0.2  0.  -0.1]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.1  0.1  0.1  0.2  0.  -0.2  0.   0.   0.   0.1 -0.2 -0.2 -0.2 -0.1 -0.1 -0.2  0.2]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.  -0.1 -0.2 -0.2 -0.1 -0.1 -0.1 -0.2  0.  -0.2  0.2 -0.2  0.2 -0.1 -0.1  0.  -0.2]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2 -0.1  0.1 -0.2 -0.2  0.1 -0.1  0.2  0.2  0.   0.   0.2  0.2 -0.1 -0.1 -0.2  0. ]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.2  0.2  0.1  0.2  0.  -0.1  0.   0.2 -0.2  0.2  0.1 -0.2  0.  -0.2  0.  -0.2  0.1]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.  -0.1 -0.1 -0.2  0.1  0.2  0.2  0.1  0.   0.1 -0.1  0.1 -0.2  0.2 -0.2 -0.1  0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [ 0.2 -0.2 -0.3 -0.2  0.3  0.2  0.4  0.1  0.1  0.2 -0.1  0.3 -0.3  0.2  0.   0.1  0. ]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [ 0.4 -0.4 -0.3 -0.4  0.3  0.3  0.5  0.1  0.   0.2 -0.3  0.1 -0.3  0.4 -0.1  0.3  0.1]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.2  0.   0.2 -0.1 -0.1 -0.2 -0.1 -0.2 -0.2  0.1  0.  -0.1  0.2 -0.1  0.   0.2 -0.2]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.2  0.2  0.1  0.1  0.  -0.2 -0.2  0.1 -0.2  0.   0.   0.2  0.1 -0.2 -0.1  0.   0. ]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2  0.2  0.1 -0.1 -0.1 -0.1 -0.2 -0.2  0.1 -0.2 -0.2  0.1 -0.1 -0.2 -0.2  0.  -0.1]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.   0.  -0.1  0.  -0.2 -0.2 -0.2  0.  -0.2 -0.1  0.2 -0.1  0.1 -0.2 -0.1  0.1 -0.2]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.1 -0.1 -0.1 -0.1  0.1 -0.2 -0.1  0.  -0.1 -0.1  0.  -0.2  0.2 -0.2  0.  -0.1 -0.1]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [ 0.  -0.1 -0.3 -0.1  0.3  0.  -0.1  0.1 -0.3  0.  -0.1  0.   0.4  0.  -0.2 -0.3 -0.1]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.1  0.   0.2  0.   0.1  0.1 -0.2 -0.2 -0.2  0.2 -0.1  0.1 -0.1  0.  -0.1  0.1 -0.2]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.1  0.1 -0.1  0.1  0.2  0.1 -0.1 -0.2 -0.2  0.2  0.1 -0.1  0.2 -0.2 -0.2  0.2  0. ]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.2  0.2  0.   0.1  0.2 -0.2  0.1  0.2  0.2  0.2 -0.2  0.  -0.2  0.1  0.1 -0.1 -0.2]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.15  0.15  0.1   0.15  0.3  -0.2   0.2   0.2   0.3   0.3  -0.25 -0.05 -0.3   0.15  0.2   0.
+ -0.15]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.2   0.15  0.    0.25  0.2  -0.3   0.15  0.15  0.2   0.4  -0.35 -0.05 -0.3   0.25  0.25 -0.05
+ -0.25]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [-0.2   0.15  0.05  0.3   0.25 -0.3   0.1   0.1   0.15  0.35 -0.3  -0.1  -0.35  0.2   0.15 -0.1
+ -0.2 ]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [-0.25  0.15  0.1   0.2   0.25 -0.4   0.2   0.1   0.25  0.35 -0.3  -0.15 -0.35  0.25  0.25 -0.15
+ -0.1 ]
+5. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen5
+5. Generation Scaling Variables: [-0.25  0.15  0.15  0.1   0.35 -0.35  0.15  0.2   0.2   0.25 -0.2  -0.15 -0.3   0.15  0.3  -0.25
+ -0.15]
+
+
+
+ 
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [ 0.1   0.    0.    0.1   0.05 -0.05 -0.05  0.    0.05  0.1  -0.1   0.    0.   -0.05  0.1  -0.05
+ -0.1 ]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.05  0.1   0.1   0.    0.05 -0.05 -0.05  0.   -0.05 -0.05  0.    0.05  0.   -0.05  0.1  -0.1
+  0.05]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.1   0.2   0.05  0.05  0.1   0.   -0.05  0.05 -0.05 -0.05 -0.05  0.05 -0.1  -0.1   0.2   0.
+  0.15]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [ 0.    0.3  -0.05  0.    0.2   0.   -0.05 -0.05  0.    0.   -0.15 -0.05  0.   -0.2   0.25 -0.05
+  0.2 ]
+3. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen3
+3. Generation Scaling Variables: [ 0.05  0.2   0.05  0.1   0.25 -0.1  -0.15 -0.1   0.    0.   -0.25  0.    0.   -0.3   0.3  -0.1
+  0.15]
+4. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen4
+4. Generation Scaling Variables: [ 0.    0.1   0.1   0.05  0.35 -0.05 -0.2  -0.15 -0.05 -0.05 -0.3   0.   -0.1  -0.3   0.4  -0.2
+  0.25]
+5. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen5
+5. Generation Scaling Variables: [-0.1   0.1   0.15  0.1   0.3  -0.15 -0.25 -0.2   0.    0.   -0.35  0.   -0.05 -0.3   0.35 -0.3
+  0.2 ]
+6. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen6
+6. Generation Scaling Variables: [-0.15  0.1   0.05  0.2   0.2  -0.25 -0.3  -0.3   0.   -0.05 -0.4  -0.1   0.   -0.35  0.35 -0.35
+  0.15]
+7. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen7
+7. Generation Scaling Variables: [-0.25  0.2  -0.05  0.25  0.1  -0.2  -0.35 -0.2  -0.05 -0.15 -0.4  -0.15 -0.1  -0.3   0.4  -0.45
+  0.1 ]
+8. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen8
+8. Generation Scaling Variables: [-0.35  0.1  -0.1   0.2   0.15 -0.1  -0.3  -0.25 -0.05 -0.05 -0.3  -0.2  -0.1  -0.2   0.5  -0.55
+  0.  ]
+9. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen9
+9. Generation Scaling Variables: [-0.45  0.05  0.    0.15  0.2  -0.05 -0.35 -0.3   0.05 -0.1  -0.4  -0.1  -0.1  -0.3   0.55 -0.65
+ -0.1 ]
+10. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen10
+10. Generation Scaling Variables: [-0.55  0.1  -0.05  0.2   0.25  0.   -0.35 -0.35 -0.05 -0.   -0.5  -0.05  0.   -0.25  0.5  -0.55
+ -0.15]
+11. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen11
+11. Generation Scaling Variables: [-0.5   0.05 -0.05  0.25  0.2   0.1  -0.4  -0.25  0.05  0.05 -0.45  0.05 -0.1  -0.15  0.4  -0.6
+ -0.2 ]
+12. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen12
+12. Generation Scaling Variables: [-0.6   0.05  0.05  0.25  0.25  0.1  -0.35 -0.2   0.   -0.05 -0.4   0.15 -0.2  -0.2   0.45 -0.6
+ -0.25]
+13. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen13
+13. Generation Scaling Variables: [-0.5   0.1   0.15  0.15  0.25  0.1  -0.25 -0.15  0.   -0.   -0.3   0.05 -0.1  -0.15  0.5  -0.7
+ -0.35]
+14. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen14
+14. Generation Scaling Variables: [-0.45  0.2   0.1   0.05  0.3   0.15 -0.2  -0.2  -0.1  -0.   -0.35 -0.05 -0.2  -0.05  0.6  -0.7
+ -0.3 ]
+15. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen15
+15. Generation Scaling Variables: [-0.35  0.25  0.1  -0.    0.4   0.25 -0.25 -0.1   0.    0.1  -0.35  0.05 -0.25  0.05  0.5  -0.65
+ -0.4 ]
+16. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen16
+16. Generation Scaling Variables: [-0.45  0.35  0.05 -0.05  0.5   0.15 -0.25 -0.1  -0.1   0.1  -0.45  0.1  -0.25 -0.    0.5  -0.65
+ -0.35]
+17. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen17
+17. Generation Scaling Variables: [-0.55  0.3  -0.05  0.05  0.4   0.25 -0.2  -0.1  -0.15  0.1  -0.45  0.05 -0.2  -0.1   0.5  -0.55
+ -0.3 ]
+18. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen18
+18. Generation Scaling Variables: [-0.65  0.2  -0.15  0.1   0.45  0.35 -0.1  -0.05 -0.2  -0.   -0.55 -0.05 -0.15 -0.05  0.4  -0.65
+ -0.2 ]
+19. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen19
+19. Generation Scaling Variables: [-0.55  0.2  -0.2   0.15  0.5   0.35 -0.2   0.   -0.2   0.05 -0.6  -0.1  -0.1  -0.15  0.4  -0.6
+ -0.2 ]
+20. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen20
+20. Generation Scaling Variables: [-0.6   0.15 -0.25  0.05  0.4   0.3  -0.1  -0.1  -0.15 -0.05 -0.7  -0.2  -0.1  -0.05  0.35 -0.65
+ -0.3 ]
+21. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen21
+21. Generation Scaling Variables: [-0.6   0.05 -0.15  0.15  0.35  0.4  -0.2  -0.2  -0.05 -0.15 -0.75 -0.25 -0.05 -0.15  0.4  -0.75
+ -0.35]
+22. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen22
+22. Generation Scaling Variables: [-0.7   0.15 -0.25  0.2   0.45  0.3  -0.1  -0.2  -0.   -0.05 -0.75 -0.25 -0.15 -0.1   0.45 -0.65
+ -0.45]
+23. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen23
+23. Generation Scaling Variables: [-0.65  0.1  -0.15  0.25  0.4   0.25  0.   -0.15 -0.1  -0.1  -0.7  -0.3  -0.15 -0.1   0.4  -0.65
+ -0.4 ]
+24. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen24
+24. Generation Scaling Variables: [-0.65  0.2  -0.05  0.25  0.5   0.3  -0.1  -0.2  -0.05 -0.15 -0.7  -0.3  -0.2  -0.2   0.3  -0.7
+ -0.35]
+25. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen25
+25. Generation Scaling Variables: [-0.55  0.15 -0.1   0.25  0.4   0.2  -0.05 -0.2  -0.   -0.05 -0.75 -0.35 -0.2  -0.15  0.3  -0.8
+ -0.45]
+26. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen26
+26. Generation Scaling Variables: [-0.5   0.2   0.    0.25  0.45  0.1   0.05 -0.15 -0.   -0.   -0.85 -0.35 -0.15 -0.25  0.4  -0.85
+ -0.5 ]
+27. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen27
+27. Generation Scaling Variables: [-0.6   0.15  0.1   0.25  0.45  0.15  0.15 -0.2  -0.05 -0.05 -0.75 -0.35 -0.15 -0.3   0.35 -0.95
+ -0.55]
+28. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen28
+28. Generation Scaling Variables: [-0.7   0.2   0.15  0.2   0.45  0.2   0.05 -0.2  -0.05 -0.05 -0.65 -0.35 -0.15 -0.35  0.4  -0.95
+ -0.55]
+29. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen29
+29. Generation Scaling Variables: [-0.8   0.3   0.1   0.2   0.4   0.1   0.05 -0.3  -0.   -0.15 -0.75 -0.25 -0.2  -0.35  0.5  -1.05
+ -0.55]
+30. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen30
+30. Generation Scaling Variables: [-0.9   0.35  0.1   0.2   0.4   0.   -0.05 -0.35 -0.   -0.2  -0.65 -0.3  -0.2  -0.3   0.45 -0.95
+ -0.45]
+31. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen31
+31. Generation Scaling Variables: [-1.    0.45  0.15  0.25  0.35  0.05  0.   -0.3   0.05 -0.1  -0.55 -0.2  -0.3  -0.3   0.35 -0.85
+ -0.45]
+32. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen32
+32. Generation Scaling Variables: [-1.1   0.35  0.05  0.15  0.4   0.1  -0.1  -0.2   0.1  -0.15 -0.5  -0.3  -0.35 -0.4   0.35 -0.85
+ -0.5 ]
+33. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen33
+33. Generation Scaling Variables: [-1.1   0.45  0.    0.2   0.4   0.   -0.2  -0.3   0.15 -0.15 -0.55 -0.3  -0.35 -0.45  0.3  -0.95
+ -0.55]
+34. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen34
+34. Generation Scaling Variables: [-1.    0.5   0.1   0.15  0.5  -0.05 -0.2  -0.2   0.15 -0.25 -0.45 -0.35 -0.4  -0.45  0.2  -0.9
+ -0.6 ]
+35. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen35
+35. Generation Scaling Variables: [-1.    0.4   0.2   0.15  0.4  -0.1  -0.25 -0.25  0.1  -0.2  -0.55 -0.3  -0.45 -0.35  0.25 -0.95
+ -0.7 ]
+36. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen36
+36. Generation Scaling Variables: [-1.1   0.4   0.2   0.2   0.3  -0.1  -0.2  -0.25  0.1  -0.15 -0.55 -0.25 -0.35 -0.3   0.2  -1.
+ -0.7 ]
+37. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen37
+37. Generation Scaling Variables: [-1.1   0.35  0.25  0.25  0.35 -0.05 -0.3  -0.35 -0.   -0.2  -0.65 -0.2  -0.35 -0.3   0.25 -0.9
+ -0.6 ]
+38. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen38
+38. Generation Scaling Variables: [-1.2   0.45  0.25  0.15  0.45 -0.15 -0.3  -0.3   0.05 -0.2  -0.6  -0.15 -0.4  -0.25  0.3  -1.
+ -0.7 ]
+0. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen0
+0. Generation Scaling Variables: [-0.06 -0.06  0.    0.06  0.    0.03  0.   -0.03  0.    0.03 -0.03 -0.06 -0.03  0.   -0.03  0.06
+ -0.06]
+1. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen1
+1. Generation Scaling Variables: [-0.06 -0.06  0.    0.06  0.    0.03  0.   -0.03  0.    0.03 -0.03 -0.06 -0.03  0.   -0.03  0.06
+ -0.06]
+2. Generation Model:/home/name/Desktop/Codes/ScalingOptimization (1)/policies/policy-Gen2
+2. Generation Scaling Variables: [-0.06 -0.06  0.    0.06  0.    0.03  0.   -0.03  0.    0.03 -0.03 -0.06 -0.03  0.   -0.03  0.06
+ -0.06]
