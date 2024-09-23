@@ -84,8 +84,9 @@ Although producing optimal robot designs without human input has become a proble
 
 The robot that we will optimize in the experiments is taken from MuJoCo's Github[4]. Our robot has 21 joints and has limited control over all of them.
 
-**Image 1. Base Robot Image 2. Base Front View 	Robot Side 				View	![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.001.png)![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.002.png)**
+![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.001.png)![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.002.png)**
 
+**Image 1. Base Robot Image 2. Base Front View 	Robot Side View
 
 **4.1.4 Scanning the Environment with NeRF**
 
@@ -103,7 +104,7 @@ NeRF (Neural Radiance Fields) [5] is a neural network architecture that takes tw
 
 ![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.005.png)**
 
-**Code Snippet 1. Reward Function for Race
+**Code Snippet 1. Reward Function for Race**
 
 ![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.006.png)
 
