@@ -8,37 +8,37 @@
 
 **Contents** :
 
-# 1. Summary………………………………………………………………….2  
-# 2. Purpose…………………………………………………………………….2  
-# 3. Introduction………………………………………………………………2  
-# 4. Method…………………………………………………………………….3  
+## 1. Summary………………………………………………………………….2  
+## 2. Purpose…………………………………………………………………….2  
+## 3. Introduction………………………………………………………………2  
+## 4. Method…………………………………………………………………….3  
 
-## 4.1 Physics Simulation and Model Methods……………………….3  
-### 4.1.1 MuJoCo………………………………………………………..3  
-### 4.1.2 MJX/Brax/JAX……………………………………………..3  
-### 4.1.3 Preparation of Base Robot………………………………..3  
-### 4.1.4 Scanning the Environment with NeRF……………………4  
-### 4.1.5 Preparation of Experimental Environments……………….4  
-#### 4.1.5.1 Running Task on Flat Ground with Humanoid Robot……..4  
-#### 4.1.5.2 Extra Environments………………………………………..5  
-#### 4.1.5.3 Things to Consider………………………………………...5  
+### 4.1 Physics Simulation and Model Methods……………………….3  
+#### 4.1.1 MuJoCo………………………………………………………..3  
+#### 4.1.2 MJX/Brax/JAX……………………………………………..3  
+#### 4.1.3 Preparation of Base Robot………………………………..3  
+#### 4.1.4 Scanning the Environment with NeRF……………………4  
+#### 4.1.5 Preparation of Experimental Environments……………….4  
+##### 4.1.5.1 Running Task on Flat Ground with Humanoid Robot……..4  
+##### 4.1.5.2 Extra Environments………………………………………..5  
+##### 4.1.5.3 Things to Consider………………………………………...5  
 
-## 4.2 Algorithmic Method………………………………………………..6  
-### 4.2.1 Reinforcement Learning……………………………………6  
-#### 4.2.1.1 Proximal Policy Optimization…………………………..6  
-#### 4.2.1.2 Transfer of Learning……………………………………..7  
-#### 4.2.1.3 Eureka……………………………………………………..8  
-### 4.2.2 Dynamic XML Models……………………………………..9  
-### 4.2.3 Genetic Algorithm…………………………………………11  
-#### 4.2.3.1 Diversity and Selection…………………………………..11  
-#### 4.2.3.2 Robot Education………………………………………..11  
-#### 4.2.3.3 Early Elimination………………………………………..12  
-#### 4.2.3.4 Algorithm Pseudo Code………………………………….13  
+### 4.2 Algorithmic Method………………………………………………..6  
+#### 4.2.1 Reinforcement Learning……………………………………6  
+##### 4.2.1.1 Proximal Policy Optimization…………………………..6  
+##### 4.2.1.2 Transfer of Learning……………………………………..7  
+##### 4.2.1.3 Eureka……………………………………………………..8  
+#### 4.2.2 Dynamic XML Models……………………………………..9  
+#### 4.2.3 Genetic Algorithm…………………………………………11  
+##### 4.2.3.1 Diversity and Selection…………………………………..11  
+##### 4.2.3.2 Robot Education………………………………………..11  
+##### 4.2.3.3 Early Elimination………………………………………..12  
+##### 4.2.3.4 Algorithm Pseudo Code………………………………….13  
 
-# 5. Project Work Schedule………………………………………………..13  
-# 6. Findings………………………………………………………………….14  
-# 7. Conclusion and Discussion………………………………………….16  
-# 8. Sources…………………………………………………………………..18  
+## 5. Project Work Schedule………………………………………………..13  
+## 6. Findings………………………………………………………………….14  
+## 7. Conclusion and Discussion………………………………………….16  
+## 8. Sources…………………………………………………………………..18
 
 
 
