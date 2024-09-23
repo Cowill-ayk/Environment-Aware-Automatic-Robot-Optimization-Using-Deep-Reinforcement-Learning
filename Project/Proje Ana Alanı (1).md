@@ -101,10 +101,9 @@ NeRF (Neural Radiance Fields) [5] is a neural network architecture that takes tw
 
 **Experiment Description:** In this task, our genetic algorithm optimizes the components of the humanoid robot based on how well it can run on a flat surface.
 
-**Code Snippet 1. Reward Function for Race
-
 ![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.005.png)**
 
+**Code Snippet 1. Reward Function for Race
 
 ![](Aspose.Words.9df18bd9-d378-4af8-8b39-ee8dc5c52abf.006.png)
 
